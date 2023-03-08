@@ -1,0 +1,1 @@
+This folder will house the index file for the website of the project, along with the CSS and image files.
