@@ -1,0 +1,1 @@
+This folder will contain all of the information about the database required for the project. Most of the stuff will be regularly updated and consists of the MySQL database's script and individual query documents. 
